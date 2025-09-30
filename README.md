@@ -9,7 +9,7 @@ This project demonstrates how to design and implement a **real-time data pipelin
 ---
 
 ## 📌 Architecture
-![Architecture](folder/architecture.png)
+![Architecture](folder/Screenshot 2025-09-30 125932.png)
 
 ---
 
@@ -35,7 +35,7 @@ This project demonstrates how to design and implement a **real-time data pipelin
 ---
 
 ## 📑 Documentation
-- [Solution Methodology (PDF)](folder/Solution-Methodology.pdf)
+- [Solution Methodology (PDF)](folder/Solution Methodology 2.pdf)
 
 ---
 
